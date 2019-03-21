@@ -1,10 +1,12 @@
 ---
-interact_link: content/C:\Users\David\julia\nb3\content\features/notebooks.ipynb
+redirect_from:
+  - "/code-example/code"
+interact_link: content/C:\Users\David\julia\nb3\content\code_example/code.ipynb
 kernel_name: python3
 title: 'Jupyter notebooks'
 prev_page:
-  url: /features/markdown
-  title: 'Markdown files'
+  url: /new/1
+  title: 'new 1 notebook'
 next_page:
   url: 
   title: ''
@@ -85,7 +87,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 
 {:.output .output_png}
-![png](C%3A/Users/David/julia/nb3/_build/images/features/notebooks_2_0.png)
+![png](C%3A/Users/David/julia/nb3/_build/images/code_example/code_2_0.png)
 
 
 
@@ -107,7 +109,7 @@ which you can [see in the original notebook](https://github.com/jupyter/jupyter-
 
 
 {:.output .output_png}
-![png](C%3A/Users/David/julia/nb3/_build/images/features/notebooks_6_0.png)
+![png](C%3A/Users/David/julia/nb3/_build/images/code_example/code_6_0.png)
 
 
 
