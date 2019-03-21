@@ -52,7 +52,7 @@
     url: /features/markdown
     not_numbered: true
   - title: Jupyter notebooks
-    url: /features/Jupyter_notebooks
+    url: /features/julia
     not_numbered: true
 - title: 实战篇
   url: /features/features
