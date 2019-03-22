@@ -49,13 +49,47 @@
   expand_sections: true
   sections:
   - title: Jupyter notebooks
-    url: /chapter1/00. Jupyter_notebooks
+    url: /chapter1/0JupyterNotebooks
     not_numbered: true
   sections:
-  - title: Getting started
+  - title: 开始之前
     url: /chapter1/1Gettingstarted
     not_numbered: true
   sections:
-  - title: Strings.ipynb
+  - title: 字符串
     url: /chapter1/2Strings
     not_numbered: true
+  sections:
+  - title: 数据结构
+    url: /chapter1/3Datastructures
+    not_numbered: true
+  sections:
+  - title: 循环
+    url: /chapter1/4Loops
+    not_numbered: true
+  sections:
+  - title: 逻辑判断
+    url: /chapter1/5Conditionals
+    not_numbered: true
+  sections:
+  - title: 函数
+    url: /chapter1/6Functions
+    not_numbered: true
+  sections:
+  - title: 包
+    url: /chapter1/7Packages
+    not_numbered: true
+  sections:
+  - title: 绘图
+    url: /chapter1/8Plotting
+    not_numbered: true  
+  - title: 性能
+    url: /chapter1/9Fast
+    not_numbered: true
+  - title: Multiple dispatch
+    url: /chapter1/10Multipledispatch
+    not_numbered: true 
+  - title: 线性代数
+    url: /chapter1/11Basiclinearalgebra
+    not_numbered: true 
+    
