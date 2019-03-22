@@ -1,11 +1,11 @@
 ---
-title: 'Jupyter中文教程首页'
+title: '第一篇：基础入门'
 prev_page:
-  url: 
-  title: ''
-next_page:
   url: /https://github.com/jupyter/jupyter-book
   title: 'GitHub repository'
+next_page:
+  url: /chapter1/1
+  title: 'Jupyter notebooks'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # 欢迎来到Julia中文教程站

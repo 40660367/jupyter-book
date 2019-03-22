@@ -1,13 +1,3 @@
----
-title: 'Jupyter中文教程首页'
-prev_page:
-  url: 
-  title: ''
-next_page:
-  url: /https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 # 欢迎来到Julia中文教程站
 
 ## Juila是谁？
