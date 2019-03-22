@@ -2,9 +2,9 @@
 title: 'Markdown files'
 prev_page:
   url: /features/features
-  title: 'Features and customization'
+  title: 'Custom'
 next_page:
-  url: /features/notebooks
+  url: /new1/new1
   title: 'Jupyter notebooks'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

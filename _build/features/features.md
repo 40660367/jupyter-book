@@ -1,10 +1,10 @@
 ---
-title: 'Features and customization'
+title: 'Custom'
 prev_page:
   url: /https://github.com/jupyter/jupyter-book
   title: 'GitHub repository'
 next_page:
-  url: /features/markdown
+  url: /new1/mdtest
   title: 'Markdown files'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
