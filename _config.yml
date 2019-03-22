@@ -20,7 +20,7 @@ title: Juila中文教程站
 author: David
 email: 40660367@qq.com
 description: >-
-  聪明的你早就意识到Juila终将取代Python,不是吗？那就从一行一行的练习开始吧
+  聪明的你早就意识到Juila终将取代Python,不是吗？那就在Julia教程里一行一行的练习开始吧
 
 baseurl: /               # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
 url: https://www.studyit-anywhere.top      # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,7 +40,7 @@ collapse_inactive_chapters: true  # Whether to collapse the inactive chapters in
 textbook_logo: images/logo/julia.png               # A logo to be displayed at the top of your textbook sidebar
 textbook_logo_link: https://www.studyit-anywhere.top                   # A link for the logo.
 sidebar_footer_text: Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter
-  Book</a>
+#   Book</a>
 number_toc_chapters: true         # Whether to add numbers to chapterse in your Table of Contents. If true, you can control this at the Chapter level in _data/toc.yml
 
 # Search settings
