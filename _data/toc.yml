@@ -22,7 +22,7 @@
 # See the links below for an example.
 
 # Top-level page
-- title: Home
+- title: Jupyter中文教程首页
   url: /intro
   not_numbered: true
 
@@ -40,17 +40,14 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+- header: Jupyter中文教程
 
 # A chapter w/ a collection of sections beneath it
-- title: Custom
-  url: /features/features
+- title: 第一篇：基础入门
+  url: /chapter1/
   not_numbered: true
   expand_sections: true
   sections:
-  - title: Markdown files
-    url: /new1/mdtest
-    not_numbered: true
   - title: Jupyter notebooks
-    url: /new1/new1
+    url: /chapter1/chapter1
     not_numbered: true
