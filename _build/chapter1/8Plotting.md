@@ -5,8 +5,8 @@ interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/8Plotting
 kernel_name: julia-1.0
 title: '绘图'
 prev_page:
-  url: /chapter1/index
-  title: '第一篇：基础入门'
+  url: /chapter1/7Packages
+  title: '包'
 next_page:
   url: /chapter1/9Fast
   title: '性能'

@@ -4,7 +4,7 @@ prev_page:
   url: /https://github.com/jupyter/jupyter-book
   title: 'GitHub repository'
 next_page:
-  url: /chapter1/1
+  url: /chapter1/0JupyterNotebooks
   title: 'Jupyter notebooks'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

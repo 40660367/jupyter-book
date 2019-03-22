@@ -51,35 +51,24 @@
   - title: Jupyter notebooks
     url: /chapter1/0JupyterNotebooks
     not_numbered: true
-  sections:
   - title: 开始之前
     url: /chapter1/1Gettingstarted
     not_numbered: true
-  sections:
   - title: 字符串
     url: /chapter1/2Strings
     not_numbered: true
-  sections:
-  - title: 数据结构
-    url: /chapter1/3Datastructures
-    not_numbered: true
-  sections:
   - title: 循环
     url: /chapter1/4Loops
     not_numbered: true
-  sections:
   - title: 逻辑判断
     url: /chapter1/5Conditionals
     not_numbered: true
-  sections:
   - title: 函数
     url: /chapter1/6Functions
     not_numbered: true
-  sections:
   - title: 包
     url: /chapter1/7Packages
     not_numbered: true
-  sections:
   - title: 绘图
     url: /chapter1/8Plotting
     not_numbered: true
@@ -97,10 +86,13 @@
   not_numbered: true
   expand_sections: true
   sections:
-  - title: VariationsOnSum
-    url: /chapter1/1VariationsOnSum
+  - title: Intro
+    url: /chapter2/Intro
     not_numbered: true
-  sections:
+    expand_sections: true
+  - title: VariationsOnSum
+    url: /chapter2/1VariationsOnSum
+    not_numbered: true
   - title: ArithmeticAssignmentandStrings
-    url: /chapter2/2ArithmeticAssignmentandStrings.ipynb
+    url: /chapter2/2ArithmeticAssignmentandStrings
     not_numbered: true

@@ -3,13 +3,13 @@ redirect_from:
   - "/chapter1/2strings"
 interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/2Strings.ipynb
 kernel_name: julia-1.0
-title: 'Strings.ipynb'
+title: '字符串'
 prev_page:
-  url: /chapter1/index
-  title: '第一篇：基础入门'
+  url: /chapter1/1Gettingstarted
+  title: '开始之前'
 next_page:
-  url: 
-  title: ''
+  url: /chapter1/4Loops
+  title: '循环'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 

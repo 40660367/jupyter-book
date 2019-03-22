@@ -8,8 +8,8 @@ prev_page:
   url: /chapter1/10Multipledispatch
   title: 'Multiple dispatch'
 next_page:
-  url: 
-  title: ''
+  url: /chapter2/Intro
+  title: '第二篇：进阶'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
