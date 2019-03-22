@@ -49,5 +49,13 @@
   expand_sections: true
   sections:
   - title: Jupyter notebooks
-    url: /chapter1/1
+    url: /chapter1/00. Jupyter_notebooks
+    not_numbered: true
+  sections:
+  - title: Getting started
+    url: /chapter1/1Gettingstarted
+    not_numbered: true
+  sections:
+  - title: Strings.ipynb
+    url: /chapter1/2Strings
     not_numbered: true
