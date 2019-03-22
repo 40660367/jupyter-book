@@ -1,23 +1,36 @@
-# Books with Jupyter and Jekyll
+# 欢迎来到Julia中文教程站
 
-<img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
+## Juila是谁？
 
-Jupyter Books lets you build an online book using a collection of Jupyter Notebooks
-and Markdown files. Its output is similar to the excellent [Bookdown](https://bookdown.org/yihui/bookdown/) tool,
-and adds extra functionality for people running a Jupyter stack.
+Julia是京香老师，也是MIT Julia Language,一种数据科学语言，整合了C、Python、R等诸多语言特色。
 
-For an example of a book built with Jupyter Books, see the [textbook for Data 100](https://www.textbook.ds100.org/) at UC Berkeley.
+Julia 已经被下载超过两百万次。Julia 的社区开发了一千九百多外部库。这些包括各种数学库，数据处理工具，以及通用计算库等。除此之外，您还可以很容易地调用 Python, R, C/Fortran, C++, 和 Java 等的外部库. 如果您找不到需要的，可以在 Julia 中文社区 询问, 自己贡献更好！
 
-Here are a few features of Jupyter Books
 
-* All course content is written in markdown and Jupyter Notebooks, stored in `notebooks/`
-* The Jupyter Book repo comes packaged with helper scripts to convert these into Jekyll pages (in `scripts/`) that can be hosted for free on GitHub
-* Pages can have [Binder](https://mybinder.org) or JupyterHub links automatically added for interactivity.
-* The website itself is based on Jekyll, and is highly extensible and can be freely-hosted on GitHub.
-* There are lots of nifty HTML features under-the-hood, such as Turbolinks fast-navigation and
-  click-to-copy in code cells.
+为什么要学习它，它有哪些特色呢？
 
-## Getting started
+
+## 快!
+Julia 一开始就是为高性能设计的。 Julia 程序被 LLVM 编译成高效的多平台机器码。
+
+## 动态
+Julia 是动态类型语言，感觉上像脚本语言，有很好的交互开发支持。
+
+## 可选类型
+Julia 有丰富的数据类型描述语言，类型声明可以使程序更清晰可靠。
+
+## 通用
+Julia 使用多分派范式, 容易表达很多面向对象和函数编程的模式。 标准库提供异步输入/输出、进程控制、日志、性能分析、包管理器， 还有更多优秀的库等你发现。
+
+## 易用
+Julia 拥有高阶的语法。 这让具有不同编程语言背景和经验的程序员都能使用它。
+
+## 开源
+Julia 是开源免费的，所有的源代码都可以在 Github 上看到。
+
+
+
+## 开始吧
 
 To get started, you may be interested in the following links.
 Here are a few links of interest:
@@ -29,25 +42,3 @@ Here are a few links of interest:
 
 * **[The Jupyter Book template repo](https://github.com/jupyter/jupyter-book)** is the template
   repository you'll use as a start for your Jupyter Book.
-
-* **A demo of the Jupyter Book** can be browsed via the sidebar to the left.
-
-## Installation
-
-Here's a brief rundown of how to create your own Jupyter Book using this site. For a more
-complete guide, see [the Jupyter Book guide](guide/01_overview).
-
-* Fork the Jupyter Book template repo
-* Replace the demo notebooks in `content/` with your own notebooks and markdown files.
-* Create a Table of Contents yaml file by editing `_data/toc.yaml`.
-* Generate the Jekyll markdown for your notebooks by running `scripts/generate_book.py`
-* Push your changes to GitHub (or wherever you host your site)!
-
-## Acknowledgements
-
-Jupyter Books was originally created by [Sam Lau][sam] and [Chris Holdgraf][chris]
-with support of the **UC Berkeley Data Science Education Program and the Berkeley
-Institute for Data Science**.
-
-[sam]: http://www.samlau.me/
-[chris]: https://predictablynoisy.com
