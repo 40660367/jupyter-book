@@ -9,10 +9,13 @@
       },
       kernelOptions: {
         name: '{% if page.kernel_name %}{{ page.kernel_name }}{% else %}python3{% endif %}',
+      },
+      codeMirrorConfig: {
+        theme: "abcdef"
       }
     }
 </script>
-<script type="text/javascript" src="https://unpkg.com/thebelab@^0.3.0"></script>
+<script src="https://unpkg.com/thebelab@0.3.3/lib/index.js"></script>
 <script>
     /**
      * Add attributes to Thebelab blocks
