@@ -5,8 +5,8 @@ interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/1Gettings
 kernel_name: julia-1.0
 title: '开始之前'
 prev_page:
-  url: /chapter1/0JupyterNotebooks
-  title: 'Jupyter notebooks'
+  url: /chapter1/index
+  title: '第一篇：基础入门'
 next_page:
   url: /chapter1/2Strings
   title: '字符串'
