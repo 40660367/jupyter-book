@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/1gettingstarted"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/1Gettingstarted.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/1Gettingstarted.ipynb
 kernel_name: julia-1.0
 title: '开始之前'
 prev_page:

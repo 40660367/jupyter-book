@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/7packages"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/7Packages.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/7Packages.ipynb
 kernel_name: julia-1.0
 title: '包'
 prev_page:

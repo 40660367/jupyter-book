@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter2/2arithmeticassignmentandstrings"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter2/2ArithmeticAssignmentandStrings.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter2/2ArithmeticAssignmentandStrings.ipynb
 kernel_name: julia-1.0
 title: 'ArithmeticAssignmentandStrings'
 prev_page:

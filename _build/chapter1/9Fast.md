@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/9fast"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/9Fast.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/9Fast.ipynb
 kernel_name: julia-1.0
 title: '性能'
 prev_page:

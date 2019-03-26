@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter2/1variationsonsum"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter2/1VariationsOnSum.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter2/1VariationsOnSum.ipynb
 kernel_name: julia-1.0
 title: 'VariationsOnSum'
 prev_page:

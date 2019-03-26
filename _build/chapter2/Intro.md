@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter2/intro"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter2/Intro.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter2/Intro.ipynb
 kernel_name: julia-1.0
 title: 'Intro'
 prev_page:

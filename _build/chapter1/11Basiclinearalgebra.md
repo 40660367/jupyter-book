@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/11basiclinearalgebra"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/11Basiclinearalgebra.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/11Basiclinearalgebra.ipynb
 kernel_name: julia-1.0
 title: '线性代数'
 prev_page:

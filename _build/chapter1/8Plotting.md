@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/8plotting"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/8Plotting.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/8Plotting.ipynb
 kernel_name: julia-1.0
 title: '绘图'
 prev_page:

@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/6functions"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/6Functions.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/6Functions.ipynb
 kernel_name: julia-1.0
 title: '函数'
 prev_page:

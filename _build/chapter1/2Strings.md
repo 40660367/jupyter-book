@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/chapter1/2strings"
-interact_link: content/C:\Users\David\jb\jupyter-book\content\chapter1/2Strings.ipynb
+interact_link: content/C:\Users\David\julia\jupyter-book\jupyter-book\content\chapter1/2Strings.ipynb
 kernel_name: julia-1.0
 title: '字符串'
 prev_page:
