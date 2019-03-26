@@ -54,7 +54,7 @@ use_jupyterlab: true                     # If 'true', interact links will use Ju
 
 # Jupyterhub link settings
 use_jupyterhub_button: true              # If 'true', display a button that will direct users to a JupyterHub (that you provide)
-jupyterhub_url: http://12.123.34.22                     # The URL for your JupyterHub. If no URL, use ""
+jupyterhub_url: http://12.123.34.222                    # The URL for your JupyterHub. If no URL, use ""
 jupyterhub_interact_text: Hub Interact             # The text that interact buttons will contain.
 
 # Binder link settings
